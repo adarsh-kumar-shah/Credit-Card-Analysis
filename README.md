@@ -83,6 +83,3 @@ Purpose: Analyze revenue generation, spending categories, and transaction freque
 - Built two fully interactive, visually clean Power BI dashboards.  
 - Improved understanding of data modeling, DAX, and Power BI storytelling.  
 - Learned how to create insight-driven visuals for business intelligence use cases.
-
-
-## 📂 Repository Structure
