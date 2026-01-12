@@ -79,6 +79,15 @@ Purpose: Analyze revenue generation, spending categories, and transaction freque
 - Online transactions are steadily increasing.  
 - Male customers contribute slightly higher total revenue, while female customers have a higher average income per transaction.
 
+## Recommendations
+1. Reward the most active users.
+2. Grow the premium user base.
+3. Partner with top categories.
+4. Boost female spending.
+5. Promote online transactions.
+6. Target high earners.
+7. Fix spending dips.
+
 ## Results
 - Built two fully interactive, visually clean Power BI dashboards.  
 - Improved understanding of data modeling, DAX, and Power BI storytelling.  
